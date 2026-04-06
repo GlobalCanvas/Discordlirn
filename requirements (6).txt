@@ -1,0 +1,7 @@
+aiogram
+python-dotenv
+aiohttp
+discord.py
+yt-dlp
+PyNaCl
+discord.py[voice]
