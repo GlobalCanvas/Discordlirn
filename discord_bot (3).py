@@ -17,7 +17,7 @@ import functools
 #                        КОНФІГУРАЦІЯ
 # ═══════════════════════════════════════════════════════════════
 
-DISCORD_TOKEN = os.getenv("BOT_TOKEN", "MTQ4OTk2MDQ3MDczODYzNjgzMA.GpGGWQ.coSSTstwCsOeY9_HDRrGZHpG4iLvXdcrJDt4bQ")
+DISCORD_TOKEN = os.getenv("BOT_TOKEN", "MTQ4OTk2MDQ3MDcODYzNjgzMA.GpGGWQ.coSSTstwCsOeY9_HDRrGZHpG4iLvXdcrJDt4bQ")
 
 DATA_DIR = "discord_data"
 os.makedirs(DATA_DIR, exist_ok=True)
