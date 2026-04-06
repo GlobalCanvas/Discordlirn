@@ -28,4 +28,4 @@ login_tokens.json
 *.swp
 
 # Txt
-*.txt
+cookies.txt
